@@ -1,4 +1,4 @@
-# Graded Git and GitHub Assignment
+# Graded Assignment Git and GitHub 
 ## 🔗 Git Repository
 
 The source code for this project is hosted on GitHub. You can find it at the following link:
