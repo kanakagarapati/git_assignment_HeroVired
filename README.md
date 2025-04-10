@@ -29,7 +29,7 @@ The purpose of this to enhance a python code to perform basic arithmetic operati
     And Merged code to **main** branch with cersion 2.0.0 release
 
     🤝 Contributing for Code Review
-        -- Added as [sainathislavath](https://github.com/sainathislavath) collobrator
+        Added as [sainathislavath](https://github.com/sainathislavath) collobrator
 
     
 
