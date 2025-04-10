@@ -11,25 +11,30 @@ This repo contain graded assignment for Git and GitHub. Which maintains version 
 ## ✅ CalculatorPlus app
 🧾 Purpose
 The purpose of this to enhance a python code to perform basic arithmetic operations, such as addition, subtraction, multiplication, and division.
-🌿 Branching Strategy
-   -*main*
-   -*dev*
-   -*feature/sqrt*
-  
-   1. 🔁 Steps
-    Cloned repositiry :**git_assignment_HeroVired**
-    Created **dev** branched
-    Added the basic initial code for addition, subtraction, multiplication, and division.
-    Created new branch **feature/sqrt**
-    Stashed the changes using stash
-    Switched to Dev branch and applied code fix for Square root for divided by zero
-    Merged the **dev** branch to **feature/sqrt** using merge   
-    Created Pull Request to **featur/sqrt** to **main** branch
-    Code reviewed by collaborator **sainathislavath**
-    And Merged code to **main** branch with cersion 2.0.0 release
 
-    🤝 Contributing for Code Review
-        Added as [sainathislavath](https://github.com/sainathislavath) collobrator
+🌿 Branching Strategy
+
+   -**main**
+   
+   -**dev**
+   
+   -**feature/sqrt**
+  
+## 🔁 Steps
+   1. Cloned repositiry :**git_assignment_HeroVired**
+   2. Created **dev** branched
+   3. Added the basic initial code for addition, subtraction, multiplication, and division.
+   4. Created new branch **feature/sqrt**
+   5. Stashed the changes using stash
+   6. Switched to Dev branch and applied code fix for Square root for divided by zero
+   7. Merged the **dev** branch to **feature/sqrt** using merge
+   8. Created Pull Request to **featur/sqrt** to **main** branch
+   9. Code reviewed by collaborator **sainathislavath**
+   10. And Merged code to **main** branch with cersion 2.0.0 release
+       
+
+##  🤝 Contributing for Code Review
+   Added [sainathislavath](https://github.com/sainathislavath) as collaborator for code review
 
     
 
