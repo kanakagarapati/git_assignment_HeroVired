@@ -1,5 +1,4 @@
-import mathe
-
+import math
 class GeometryCalculator:
 
     def calculate_circle_area(self, radius):
