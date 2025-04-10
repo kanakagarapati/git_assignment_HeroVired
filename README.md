@@ -14,23 +14,23 @@ The purpose of this to enhance a python code to perform basic arithmetic operati
 
 🌿 Branching Strategy
 
-   -**main**
+   -`main`
    
-   -**dev**
+   -`dev`
    
-   -**feature/sqrt**
+   -`feature/sqrt`
   
 ## 🔁 Steps
    1. Cloned repositiry :**git_assignment_HeroVired**
-   2. Created **dev** branched
+   2. Created `dev` branched
    3. Added the basic initial code for addition, subtraction, multiplication, and division.
-   4. Created new branch **feature/sqrt**
+   4. Created new branch `feature/sqrt`
    5. Stashed the changes using stash
    6. Switched to Dev branch and applied code fix for Square root for divided by zero
-   7. Merged the **dev** branch to **feature/sqrt** using merge
-   8. Created Pull Request to **featur/sqrt** to **main** branch
-   9. Code reviewed by collaborator **sainathislavath**
-   10. And Merged code to **main** branch with cersion 2.0.0 release
+   7. Merged the `dev` branch to `feature/sqrt` using merge
+   8. Created Pull Request to `featur/sqrt` to `main` branch
+   9. Code reviewed by collaborator `Sainathislavath`
+   10. And Merged code to `main` branch with version 2.0.0 release
        
 
 ##  🤝 Contributing for Code Review
