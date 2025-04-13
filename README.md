@@ -30,7 +30,8 @@ The purpose of this to enhance a python code to perform basic arithmetic operati
    7. Merged the `dev` branch to `feature/sqrt` using merge
    8. Created Pull Request to `featur/sqrt` to `main` branch
    9. Code reviewed by collaborator `Sainathislavath`
-   10. And Merged code to `main` branch with version 2.0.0 release
+   10. Performed testing of code.
+   11. And Merged code to `main` branch with version 2.0.0 release
        
 
 ##  🤝 Contributing for Code Review
@@ -80,7 +81,9 @@ The purpose of this project to simple Python program that calculates the area of
    7. Swiched back to `feature/rectangle-area` branch and applied stash changes
    8. Updated code commited and pushed.
    9. Created PR from `feature/circle-area`  to `main`
-   10. Created PR from `feature/rectangle-area`  to `main`  
+   10. Created PR from `feature/rectangle-area`  to `main`
+   11. And performed of code testing
+   12. And merged to `main` branch
   
 
 ##  🤝 Contributing for Code Review
